@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #F8F5F2;
+    color: #2D2D2D;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+
+  --color-natural-bg: #F8F5F2;
+  --color-natural-card: #FFFFFF;
+  --color-natural-surface: #F1ECE7;
+  --color-natural-dark: #2A2925;
+  --color-natural-dark-card: #34322C;
+  
+  --color-olive-50: #F6F7F3;
+  --color-olive-100: #EBF0E6;
+  --color-olive-600: #5A5A40;
+  --color-olive-700: #484833;
+  --color-olive-800: #383827;
+  --color-olive-900: #29291D;
+
+  --color-bronze-50: #FBF8F3;
+  --color-bronze-100: #F5EEE4;
+  --color-bronze-500: #B89C76;
+  --color-bronze-600: #A68B67;
+  --color-bronze-700: #8E7657;
+  --color-bronze-800: #6E5A41;
+
+  --color-natural-text: #2D2D2D;
+  --color-natural-muted: #6B635B;
+  --color-natural-light: #8C8279;
+  --color-natural-border: #E6E2DE;
+  --color-natural-border-dark: #DED4C7;
+}

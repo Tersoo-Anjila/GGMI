@@ -1,0 +1,6 @@
+{
+  "name": "Global Gospel Missions Initiative (GGMI)",
+  "description": "Official website and digital hub for Global Gospel Missions Initiative (GGMI) — gospel multimedia repository, daily devotionals, membership & conference registration, outreach reports, donations, and virtual events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
